@@ -4,8 +4,8 @@
 This project performs an exploratory data analysis (EDA) on PhonePe Pulse data to uncover transaction patterns, user behavior, and correlations with demographic information at both state and district levels in India.
 
 # 📁 Dataset Sources
-phonepe-pulse_raw-data.xlsx
-State_Txn and Users
+- phonepe-pulse_raw-data.xlsx
+- State_Txn and Users
 State_TxnSplit
 State_DeviceData
 District_Txn and Users
