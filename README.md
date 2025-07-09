@@ -1,9 +1,9 @@
-📊 PhonePe Data Analysis Case Study
-
-🔍 Overview
+📊 **PhonePe Data Analysis Case Study
+**
+🔍 **Overview**
 This project performs an exploratory data analysis (EDA) on PhonePe Pulse data to uncover transaction patterns, user behavior, and correlations with demographic information at both state and district levels in India.
 
-📁 Dataset Sources
+📁 **Dataset Sources**
 phonepe-pulse_raw-data.xlsx
 State_Txn and Users
 State_TxnSplit
@@ -12,7 +12,7 @@ District_Txn and Users
 District Demographics.xlsx
 Note: Datasets must be placed in the same folder as the notebook to run the analysis.
 
-📌 Key Insights
+📌 **Key Insights**
 State-wise Insights
 Identification of states with highest and lowest average transaction volumes.
 Seasonal transaction spikes based on quarterly data.
@@ -25,7 +25,7 @@ Demographic Correlation
 Positive correlation between population density and transaction volume.
 Urban areas exhibit higher app usage and average transaction value (ATV).
 
-🧰 Technologies Used
+🧰 **Technologies Used**
 Python
 Pandas, NumPy
 Matplotlib, Seaborn
